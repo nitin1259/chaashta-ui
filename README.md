@@ -1,5 +1,5 @@
 # Chaashta-ui
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.<br>
